@@ -5,10 +5,10 @@ main:
      url: /about/
      
    - title: "Research"
-     url: /research
+     url: /research/
      
    - title: "CV"
-     url: CV
+     url: "https://github.com/andreacorra/andreacorra.github.io/blob/master/CV/Andrea_Corradini_CV.pdf"
      
    - title: "Publication"
      url: /publications/
