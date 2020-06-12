@@ -1,10 +1,10 @@
 # main links
 main:
    - title: "Home"
-     url: https://andreacorra.github.io/
+     url: /
      
    - title: "About"
-     url: about
+     url: /about
      
    - title: "Research"
      url: research
@@ -13,4 +13,4 @@ main:
      url: CV
      
    - title: "Publication"
-     url: publication
+     url: /publications
