@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-small.jpg"
   bio              : "Large Carnivore ecologist"
   location         : "Trento, Italy"
   links:
