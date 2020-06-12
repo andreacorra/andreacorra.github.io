@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Andrea Corradini"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Andrea Corradini"
+# name                     : "Andrea Corradini"
 description              : "Large Carnivore ecologist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,30 +93,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrea Corradini"
+  name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Large Carnivore ecologist"
   location         : "Trento, Italy"
-  email            :
+  email            : "corradini.andre@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:corradini.andre@gmail.com"
+    - label: "ResearchGate"
+      icon: "fas fa-fw fa-ResearchGate"
+      url: "https://https://www.researchgate.net/profile/Andrea_Corradini2"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/corradiniandre"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreacorra"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -124,21 +118,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/corradiniandre"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreacorra"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files
