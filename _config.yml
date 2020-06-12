@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrea Corradini"
+title                    : "Andrea Corradini's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-# name                     : "Andrea Corradini"
+name                     : "Andrea Corradini"
 description              : "Large Carnivore ecologist"
 url                      : "https://andreacorra.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
