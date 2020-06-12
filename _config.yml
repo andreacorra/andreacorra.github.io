@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "github.com/andreacorra/andreacorra.github.io/blob/master/assets/images/bio-photo.jpg"
   bio              : "Large Carnivore ecologist"
   location         : "Trento, Italy"
   links:
@@ -102,7 +102,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:corradini.andre@gmail.com"
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-ResearchGate"
+      icon: "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Andrea_Corradini2"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
