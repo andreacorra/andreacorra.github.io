@@ -1,10 +1,12 @@
 # main links
 main:
+   - title: "Home"
+     url: https://andreacorra.github.io/
    - title: "About"
-     url: https://github.com/andreacorra/andreacorra.github.io/blob/master/_pages/about.md
+     url: _pages/about.md
    - title: "Research"
-     url: /year-archive/
+     url: _pages/research.md
    - title: "CV"
-     url: /collection-archive/
+     url: _pages/CV.md
    - title: "Publication"
-     url: https://github.com/andreacorra/andreacorra.github.io/blob/master/_pages/publications.md
+     url: _pages/publications.md
