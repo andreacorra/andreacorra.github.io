@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrea Corradini"
 description              : "My personal website where you can see the research I do!"
-url                      : "https://andreacorradini.com"
+url                      : "https://andreacorra.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : andreacorra/andreacorra.github.io # e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
