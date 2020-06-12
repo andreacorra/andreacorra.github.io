@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "github.com/andreacorra/andreacorra.github.io/blob/master/assets/images/bio-photo.jpg"
+  avatar           : "images/bio-photo.jpg"
   bio              : "Large Carnivore ecologist"
   location         : "Trento, Italy"
   links:
@@ -110,6 +110,16 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreacorra"
+
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About Me: "aboutme"
+  Publications: "publications"
+  Resources: "resources"
+  CV: "CV"
+  
 
 # Site Footer
 footer:
@@ -137,6 +147,7 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
+  - assets/images
   - Capfile
   - CHANGELOG
   - config
