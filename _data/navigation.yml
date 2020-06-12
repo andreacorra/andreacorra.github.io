@@ -2,11 +2,15 @@
 main:
    - title: "Home"
      url: https://andreacorra.github.io/
+     
    - title: "About"
-     url: _pages/about.md
+     url: /about/
+     
    - title: "Research"
-     url: _pages/research.md
+     url: /research/
+     
    - title: "CV"
-     url: _pages/CV.md
+     url: CV
+     
    - title: "Publication"
-     url: _pages/publications.md
+     url: publication
