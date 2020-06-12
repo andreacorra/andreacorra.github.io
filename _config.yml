@@ -110,16 +110,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreacorra"
-
-
-# List of links in the navigation bar
-navbar-links:
-  Home: ""
-  About Me: "aboutme"
-  Publications: "publications"
-  Resources: "resources"
-  CV: "CV"
-  
+      
 
 # Site Footer
 footer:
@@ -136,6 +127,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - assets/images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -147,7 +139,6 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
-  - assets/images
   - Capfile
   - CHANGELOG
   - config
@@ -278,8 +269,3 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: true
-      related: true
