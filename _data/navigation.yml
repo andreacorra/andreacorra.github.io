@@ -17,13 +17,13 @@ research:
    - title: Brown bear
      children:
       - title: "Overview"
-        url: /research/bear-overview
+        url: /research/bear-overview/
       - title: "AlpBearConnect"
-        url: /research/alpbearconnect
+        url: /research/alpbearconnect/
         
    - title: Grey wolf
      children:
       - title: "Overview"
-        url: /research/wolf-overview
+        url: /research/wolf-overview/
       - title: "wolfdiet"
-        url: /research/wolfdiet
+        url: /research/wolfdiet/
