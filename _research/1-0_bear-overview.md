@@ -1,7 +1,7 @@
 ---
 title: "Brown bear projects"
 excerpt: "Brown bears"
-permalink: /devices/bear-overview
+permalink: /devices/bear-overview/
 ---
 
 The most important feature of a charge controller is the power stage, which can be either a DC/DC converter or 
