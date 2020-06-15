@@ -1,7 +1,7 @@
 ---
 title: "Grey wolf projects"
 excerpt: "Grey wolves"
-permalink: /devices/wolf-overview
+permalink: /devices/wolf-overview/
 ---
 
 The most important feature of a charge controller is the power stage, which can be either a DC/DC converter or 
