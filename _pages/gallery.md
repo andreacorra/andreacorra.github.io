@@ -7,22 +7,22 @@ gallery:
   - url: /assets/images/gallery/samples.jpeg
     image_path: /assets/images/gallery/samples.jpeg
     alt: "samples"
-    title: "Collecting wolf saliva can be challeging"
+    title: "Collecting wolf saliva can be challeging. Romania"
 
   - url: /assets/images/gallery/bear_camp.JPG
     image_path: /assets/images/gallery/bear_camp.JPG
     alt: "bear_camp"
-    title: "Bears in camp - Denali NP"
+    title: "Bears in camp. Denali NP"
 
   - url: /assets/images/gallery/northen_light.jpg
     image_path: /assets/images/gallery/northen_light.jpg
     alt: "northen_light"
-    title: "Northen light"
+    title: "Northen light in Alaska"
     
   - url: /assets/images/gallery/lynx_camera.jpeg
     image_path: /assets/images/gallery/lynx_camera.jpeg
     alt: "lynx_camera"
-    title: "Lynx on camera trap - pic: WOLFLIFE"
+    title: "Lynx on camera trap. Romania - pic: WOLFLIFE"
     
   - url: /assets/images/gallery/fablab.jpeg
     image_path: /assets/images/gallery/fablab.jpeg
@@ -32,17 +32,17 @@ gallery:
   - url: /assets/images/gallery/bedsite_view.jpeg
     image_path: /assets/images/gallery/bedsite_view.jpeg
     alt: "bedsite_view"
-    title: "Bear beadsite view"
+    title: "Bear beadsite view. Italy"
     
   - url: /assets/images/gallery/djuro_IBA.jpeg
     image_path: /assets/images/gallery/djuro_IBA.jpeg
     alt: "djuro_IBA"
-    title: "Co-chair (as a student) an IBA with Djuro Huber"
+    title: "Co-chairing (as a student) an IBA session with Djuro Huber. Slovenia"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/stoat.JPG
+    image_path: /assets/images/gallery/stoat.JPG
+    alt: "stoat"
+    title: "Stoat. Alaska"
     
   - url: /assets/images/gallery/camp_norway.jpg
     image_path: /assets/images/gallery/camp_norway.jpg
