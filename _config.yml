@@ -257,17 +257,18 @@ collections:
 
 # Defaults
 defaults:
+
   # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: # true
-#      share: true
-#      related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
       
   # _pages
   - scope:
@@ -278,7 +279,7 @@ defaults:
       
   # _research
   - scope:
-      path: ""
+      path: "_research"
       type: research
     values:
       layout: single
