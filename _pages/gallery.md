@@ -123,7 +123,21 @@ gallery:
     image_path: /assets/images/gallery/bear_den.JPG
     alt: "bear_den"
     title: "Bear den. Romania"
-
+    
+  - url: /assets/images/gallery/moose.JPG
+    image_path: /assets/images/gallery/moose.JPG
+    alt: "moose"
+    title: "Moose with calf feeding in a lake. Alaska"
+    
+  - url: /assets/images/gallery/alps_core.JPG
+    image_path: /assets/images/gallery/alps_core.JPG
+    alt: "alps_core"
+    title: "Brenta Dolomites. Italy"
+    
+  - url: /assets/images/gallery/running.jpeg
+    image_path: /assets/images/gallery/running.jpeg
+    alt: "running"
+    title: "Skyrunning in the beautiful Corno alle Scale Regional Park. Italy"
     
 ---
 
