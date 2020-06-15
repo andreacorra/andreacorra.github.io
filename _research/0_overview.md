@@ -2,9 +2,10 @@
 title: "Research"
 permalink: /research/
 excerpt: "Present and past research projects"
+author_profile: false
 ---
 
-Present AND past research projects:
+Present AND past Research projects:
 
 
 ### Brown bear
