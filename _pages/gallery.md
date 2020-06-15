@@ -23,6 +23,6 @@ gallery:
   }
 </style>
 
-<h2 align="center"> Starling Photo Gallery </h2>
+<h2 align="center"> Photo Gallery </h2>
 
 {% include gallery id="gallery" class="gallery-thumbnail"  %}
