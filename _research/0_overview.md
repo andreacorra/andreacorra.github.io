@@ -4,8 +4,17 @@ excerpt: "Present and past research projects"
 permalink: /research/
 ---
 
-The vision behind Libre Solar is to develop open-source hardware components for a smart and renewable energy system.
+Present and past research projects
 
-## Development stage badges
 
-Currently, different versions of charge controllers and battery management systems (BMS) are under development.
+## Brown bear
+Brown bear research 
+
+## Grey wolf
+Grey wolf research
+
+## Eurasian lynx
+Eurasian lynx research
+
+## Other research projects
+Other research projects
