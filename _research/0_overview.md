@@ -1,7 +1,8 @@
 ---
 title: "Research"
-excerpt: "Present and past research projects"
 permalink: /research/
+excerpt: "Present and past research projects"
+toc: true
 ---
 
 Present and past research projects:
