@@ -52,7 +52,7 @@ gallery:
   - url: /assets/images/gallery/wolf_camera.jpeg
     image_path: /assets/images/gallery/wolf_camera.jpeg
     alt: "wolf_camera"
-    title: "Wolves on camera trap. Romania"
+    title: "Wolves on camera trap. Romania - pic: WOLFLIFE"
     
   - url: /assets/images/gallery/salvmont.jpeg
     image_path: /assets/images/gallery/salvmont.jpeg
