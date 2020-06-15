@@ -72,7 +72,7 @@ gallery:
   - url: /assets/images/gallery/black_wolf.JPG
     image_path: /assets/images/gallery/black_wolf.JPG
     alt: "black_wolf"
-    title: "black wolf walking by. Denali NP, Alaska"
+    title: "Black wolf walking by. Denali NP, Alaska"
     
   - url: /assets/images/gallery/Scat_Washing.JPG
     image_path: /assets/images/gallery/Scat_Washing.JPG
@@ -94,20 +94,35 @@ gallery:
     alt: "bear_lynx"
     title: "Bear and lynx track on the snow. Romania, Italy"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/lynx_trapping.JPG
+    image_path: /assets/images/gallery/lynx_trapping.JPG
+    alt: "lynx_trapping"
+    title: "Setting lynx trapping for the LIFELYNX project. Romania"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/watching_chamois.jpg
+    image_path: /assets/images/gallery/watching_chamois.jpg
+    alt: "watching_chamois.jpg"
+    title: "Wildlife watching. Italy"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/snow_tracking.JPG
+    image_path: /assets/images/gallery/snow_tracking.JPG
+    alt: "snow_tracking"
+    title: "Snow tracking in the Carpathian Mountains. Romania"
+    
+  - url: /assets/images/gallery/alaska_camping.jpeg
+    image_path: /assets/images/gallery/alaska_camping.jpeg
+    alt: "alaska_camping"
+    title: "Camping in the Alaskan tundra. Denali NP, Alaska"
+    
+  - url: /assets/images/gallery/shepherding.jpeg
+    image_path: /assets/images/gallery/shepherding.jpeg
+    alt: "shepherding"
+    title: "Shepherding! (or just trying a Romanian sheep coat)"
+    
+  - url: /assets/images/gallery/bear_den.JPG
+    image_path: /assets/images/gallery/bear_den.JPG
+    alt: "bear_den"
+    title: "Bear den. Romania"
 
     
 ---
