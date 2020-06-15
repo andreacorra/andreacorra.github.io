@@ -2,13 +2,15 @@
 permalink: /about/
 title: "About"
 ---
-<br></br>
-**Hello!**
+<br>
 
+![in the snow](https://github.com/andreacorra/andreacorra.github.io/blob/master/assets/images/in_the_snow.jpeg)
+  
+**Ciao!**
+  
 My name is Andrea Corradini, I am a carnivore ecologist and Ph.D. student at the University of Trento and the Fondazione Edmund Mach [Applied Ecology](https://www.fmach.it/CRI/info-generali/organizzazione/Direzione-Centro-Ricerca-e-Innovazione/Biodiversita-ed-ecologia-molecolare/Ecologia-applicata/FRANCESCA-CAGNACCI), Italy.
 
-I'm broadly interested in large carnivore ecology
-My current research addresses relevant questions and proposes measures for the conservation of the brown bear population in Central-Eastern Alps. My Ph.D. project started in 2017 and is co-funded by the University of Trento, Fondazione Edmund Mach, and Stelvio National Park.
+I am broadly interested in large carnivore ecology and conservation. Particularly, I have focused my studies on grey wolf, brown bear, and Eurasian lynx in the last years. My current main research addresses relevant questions and proposes measures for the conservation of the brown bear population in Central-Eastern Alps. My Ph.D. project started in 2017 and is co-funded by the University of Trento, Fondazione Edmund Mach, and Stelvio National Park.
 
 Originally from Italy, I grew up between the rolling hills of Macerata and the Umbrian-Marches Apennines. I moved to Firenze in 2009 to pursue academic studies at the University of Florence, Italy, where I received my [B.Sc.](https://www.lfau.unifi.it/changelang-eng.html) and [M.Sc.](https://www.magistralefaunistica.unifi.it/changelang-eng.html) degrees in Wildlife Management. Meanwhile, I studied for a semester at the Swedish University of Agricultural Sciences [SLU](https://www.slu.se/en/departments/wildlife-fish-environmental-studies/) in Umeå, Sweden, and enjoyed food, friends, and university life in one of the world's finest cities, Firenze. 
 
