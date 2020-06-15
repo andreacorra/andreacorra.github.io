@@ -12,7 +12,7 @@ gallery:
   - url: /assets/images/gallery/bear_camp.JPG
     image_path: /assets/images/gallery/bear_camp.JPG
     alt: "bear_camp"
-    title: "Bears in camp. Denali NP"
+    title: "Bears in camp. Denali NP, Alaska"
 
   - url: /assets/images/gallery/northen_light.jpg
     image_path: /assets/images/gallery/northen_light.jpg
@@ -47,7 +47,42 @@ gallery:
   - url: /assets/images/gallery/camp_norway.jpg
     image_path: /assets/images/gallery/camp_norway.jpg
     alt: "camp_norway"
-    title: "Bivy camp in Dovrefjell-Sunndalsfjella National Park, Norway"
+    title: "Bivy camp in Dovrefjell-Sunndalsfjella National Park. Norway"
+    
+  - url: /assets/images/gallery/wolf_camera.jpeg
+    image_path: /assets/images/gallery/wolf_camera.jpeg
+    alt: "wolf_camera"
+    title: "Wolves on camera trap. Romania"
+    
+  - url: /assets/images/gallery/salvmont.jpeg
+    image_path: /assets/images/gallery/salvmont.jpeg
+    alt: "salvmont"
+    title: "Fieldwork with the moutain rescue team. Romania"
+    
+  - url: /assets/images/gallery/deer.jpeg
+    image_path: /assets/images/gallery/deer.jpeg
+    alt: "deer"
+    title: "Red deer fawn. Stelvio NP, Italy"
+    
+  - url: /assets/images/gallery/lynx_kill.jpeg
+    image_path: /assets/images/gallery/lynx_kill.jpeg
+    alt: "lynx_kill"
+    title: "Analyzing a lynx kill. Romania"
+    
+  - url: /assets/images/gallery/
+    image_path: /assets/images/gallery/
+    alt: " "
+    title: " "
+    
+  - url: /assets/images/gallery/
+    image_path: /assets/images/gallery/
+    alt: " "
+    title: " "
+    
+  - url: /assets/images/gallery/
+    image_path: /assets/images/gallery/
+    alt: " "
+    title: " "
     
   - url: /assets/images/gallery/
     image_path: /assets/images/gallery/
