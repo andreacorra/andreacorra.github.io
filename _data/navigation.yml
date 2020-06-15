@@ -12,3 +12,18 @@ main:
      
    - title: "Gallery"
      url: /gallery/
+
+research:
+   - title: Brown bear
+     children:
+      - title: "Overview"
+        url: /research/bear-overview
+      - title: "AlpBearConnect"
+        url: /research/alpbearconnect
+        
+   - title: Grey wolf
+     children:
+      - title: "Overview"
+        url: /research/wolf-overview
+      - title: "wolfdiet"
+        url: /research/wolfdiet
