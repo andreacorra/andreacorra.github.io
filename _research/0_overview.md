@@ -4,7 +4,7 @@ permalink: /research/
 excerpt: "Present and past research projects"
 ---
 
-Present and past research projects:
+Present AND past research projects:
 
 
 ### Brown bear
