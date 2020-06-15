@@ -20,7 +20,7 @@ title                    : "Andrea Corradini"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andrea Corradini"
-description              : "My personal website where you can see the research I do!"
+description              : "My personal website to follow my current research."
 url                      : "https://andreacorra.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : andreacorra/andreacorra.github.io # e.g. "mmistakes/minimal-mistakes"
