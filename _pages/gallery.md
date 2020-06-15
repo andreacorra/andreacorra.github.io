@@ -17,7 +17,7 @@ gallery:
   - url: /assets/images/gallery/northen_light.jpg
     image_path: /assets/images/gallery/northen_light.jpg
     alt: "northen_light"
-    title: "Northen light in Alaska"
+    title: "Northen light. Sweden"
     
   - url: /assets/images/gallery/lynx_camera.jpeg
     image_path: /assets/images/gallery/lynx_camera.jpeg
@@ -69,30 +69,30 @@ gallery:
     alt: "lynx_kill"
     title: "Analyzing a lynx kill. Romania"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/black_wolf.JPG
+    image_path: /assets/images/gallery/black_wolf.JPG
+    alt: "black_wolf"
+    title: "black wolf walking by. Denali NP, Alaska"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/Scat_Washing.JPG
+    image_path: /assets/images/gallery/Scat_Washing.JPG
+    alt: "Scat_Washing"
+    title: "Washing wolf scat for diet analysis. pic: National Geographic"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/bison.JPG
+    image_path: /assets/images/gallery/bison.JPG
+    alt: "bison"
+    title: "European bisons. Vânători-Neamț Natural Park, Romania"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/alps_hike.JPG
+    image_path: /assets/images/gallery/alps_hike.JPG
+    alt: "alps_hike"
+    title: "Hiking in the Alps. Italy"
     
-  - url: /assets/images/gallery/
-    image_path: /assets/images/gallery/
-    alt: " "
-    title: " "
+  - url: /assets/images/gallery/bear_lynx.jpeg
+    image_path: /assets/images/gallery/bear_lynx.jpeg
+    alt: "bear_lynx"
+    title: "Bear and lynx track on the snow. Romania, Italy"
     
   - url: /assets/images/gallery/
     image_path: /assets/images/gallery/
