@@ -4,7 +4,7 @@ title: "About"
 ---
 <br>
 
-![in the snow](https://github.com/andreacorra/andreacorra.github.io/blob/master/assets/images/in_the_snow.jpeg)
+![in the snow](/assets/images/in_the_snow.jpeg)
   
 **Ciao!**
   
