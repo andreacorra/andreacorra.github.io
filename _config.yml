@@ -281,11 +281,11 @@ defaults:
       path: ""
       type: research
     values:
-#      layout: single
-#      read_time: false
-#      author_profile: false
-#      share: false
-#      comments: false
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
       sidebar:
         nav: "research"
 
