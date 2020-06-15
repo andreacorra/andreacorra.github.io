@@ -1,7 +1,7 @@
 ---
 title: "AlpBearConnect"
 excerpt: "Ph.D. project"
-permalink: /devices/alpbearconnect
+permalink: /devices/alpbearconnect/
 ---
 
 The most important feature of a charge controller is the power stage, which can be either a DC/DC converter or 
