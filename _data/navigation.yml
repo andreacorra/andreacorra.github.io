@@ -10,5 +10,5 @@ main:
    - title: "CV"
      url: http://andreacorra.github.io/CV/Andrea_Corradini_CV.pdf
      
-   - title: "Publication"
-     url: _pages/publications/
+   - title: "Gallery"
+     url: /gallery/
