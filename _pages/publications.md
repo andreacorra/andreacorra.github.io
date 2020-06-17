@@ -3,20 +3,17 @@ permalink: /publications/
 toc: true
 author_profile: true
 ---
-
-# Publications
-
-## Articles
-### Published
+# Articles
+## Published
 1. Abc
 2. Abc
 
-### In preparation
+## In preparation
 1. Abc
 2. Abc
+  
+# Conference material
 
-## Conference material
+# Thesis supervised
 
-## Thesis supervised
-
-## Technical material
+# Technical material
