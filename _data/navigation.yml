@@ -5,22 +5,24 @@ main:
      url: /about/
    - title: "Research"
      url: /research/
+   - title: "Publications"
+     url: /publications/
    - title: "CV"
      url: http://andreacorra.github.io/CV/Andrea_Corradini_CV.pdf
    - title: "Gallery"
      url: /gallery/
 
-research:
-   - title: Brown bear
-     children:
-      - title: "Overview"
-        url: /research/bear-overview/
-      - title: "AlpBearConnect"
-        url: /research/alpbearconnect/
+#research:
+#   - title: Brown bear
+#     children:
+#      - title: "Overview"
+#        url: /research/bear-overview/
+#      - title: "AlpBearConnect"
+#        url: /research/alpbearconnect/
         
-   - title: Grey wolf
-     children:
-      - title: "Overview"
-        url: /research/wolf-overview/
-      - title: "wolfdiet"
-        url: /research/wolfdiet/
+#   - title: Grey wolf
+#     children:
+#      - title: "Overview"
+#        url: /research/wolf-overview/
+#      - title: "wolfdiet"
+#        url: /research/wolfdiet/
