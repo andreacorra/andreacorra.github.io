@@ -6,9 +6,6 @@ author_profile: true
 toc: true
 toc_float: true
 ---
-#      collapsed: true
-#      smooth_scroll: true
-
 
 An overview of current and past research projects I have been/were involved in.
 
