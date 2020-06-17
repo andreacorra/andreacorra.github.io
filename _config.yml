@@ -128,7 +128,6 @@ include:
   - .htaccess
   - _pages
   - assets/images
-  - _research
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -277,17 +276,4 @@ defaults:
     values:
       layout: single
       
-  # _research
-  - scope:
-      path: "_research"
-      type: research
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "research"
-
 theme: jekyll-theme-midnight
