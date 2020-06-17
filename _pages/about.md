@@ -8,7 +8,7 @@ author_profile: true
   
 **Ciao!**
   
-My name is Andrea Corradini, I am a carnivore ecologist and Ph.D. student at the University of Trento and the Fondazione Edmund Mach [Applied Ecology](https://www.fmach.it/CRI/info-generali/organizzazione/Direzione-Centro-Ricerca-e-Innovazione/Biodiversita-ed-ecologia-molecolare/Ecologia-applicata/FRANCESCA-CAGNACCI), Italy.
+My name is Andrea Corradini, I am a large carnivore ecologist and Ph.D. student at the University of Trento and the Fondazione Edmund Mach [Applied Ecology](https://www.fmach.it/CRI/info-generali/organizzazione/Direzione-Centro-Ricerca-e-Innovazione/Biodiversita-ed-ecologia-molecolare/Ecologia-applicata/FRANCESCA-CAGNACCI), Italy.
 
 I am broadly interested in large carnivore ecology and conservation. Particularly, I have focused my studies on grey wolf, brown bear, and Eurasian lynx in the last years. My current main research addresses relevant questions and proposes measures for the conservation of the brown bear population in Central-Eastern Alps. My Ph.D. project started in 2017 and is co-funded by the University of Trento, Fondazione Edmund Mach, and Stelvio National Park.
 
