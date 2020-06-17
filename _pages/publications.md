@@ -1,4 +1,5 @@
 ---
+permalink: /publications/
 toc: true
 author_profile: true
 ---
