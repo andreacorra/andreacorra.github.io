@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
 ![in the snow](/assets/images/in_the_snow.jpeg)
