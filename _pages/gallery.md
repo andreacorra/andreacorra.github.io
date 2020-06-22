@@ -22,7 +22,7 @@ gallery:
   - url: /assets/images/gallery/lynx_camera.jpeg
     image_path: /assets/images/gallery/lynx_camera.jpeg
     alt: "lynx_camera"
-    title: "Lynx on camera trap. Romania - pic: WOLFLIFE, [source](www.youtube.com/watch?v=SUE90fhFA-Q)"
+    title: "Lynx on camera trap. Romania - pic: WOLFLIFE, source: www.youtube.com/watch?v=SUE90fhFA-Q"
     
   - url: /assets/images/gallery/fablab.jpeg
     image_path: /assets/images/gallery/fablab.jpeg
