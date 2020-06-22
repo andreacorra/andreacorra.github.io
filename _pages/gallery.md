@@ -22,7 +22,7 @@ gallery:
   - url: /assets/images/gallery/lynx_camera.jpeg
     image_path: /assets/images/gallery/lynx_camera.jpeg
     alt: "lynx_camera"
-    title: "Lynx on camera trap. Romania - pic: WOLFLIFE"
+    title: "Lynx on camera trap. Romania - pic: WOLFLIFE, [source](www.youtube.com/watch?v=SUE90fhFA-Q)"
     
   - url: /assets/images/gallery/fablab.jpeg
     image_path: /assets/images/gallery/fablab.jpeg
@@ -77,7 +77,7 @@ gallery:
   - url: /assets/images/gallery/Scat_Washing.JPG
     image_path: /assets/images/gallery/Scat_Washing.JPG
     alt: "Scat_Washing"
-    title: "Washing wolf scat for diet analysis. pic: National Geographic"
+    title: "Washing wolf scat for diet analysis. Pic: National Geographic"
     
   - url: /assets/images/gallery/bison.JPG
     image_path: /assets/images/gallery/bison.JPG
