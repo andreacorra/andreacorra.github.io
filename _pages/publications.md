@@ -1,14 +1,22 @@
 ---
 permalink: /publications/
+toc: true
 author_profile: true
 ---
-# Publications
 
-## Articles
+<br>
+
+**PAGE UNDER DEVELOPMENT** 
+
+<br>
+
+# Publications  
+  
+## Articles  
 
 ### In preparation
 **2020**  
-* **Corradini, A.**, et al. “Effects of cumulated outdoor activity on wildlife habitat use”. In review in Biological Conservation. 
+* **Corradini, A.**, et al. “Effects of cumulated outdoor activity on wildlife habitat use”. In review in Biological Conservation.
 
 ### Published
 **2017**  
