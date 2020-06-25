@@ -14,7 +14,7 @@ author_profile: true
 
 ### Published
 **2017**  
-* O'Mahony, K., **Corradini, A.**, Gazzola, A. “Lupine becomings- tracking and assembling wolves through multi-sensory fieldwork”. Society and Animals, 26(2), 107-129. DOI [10.1163/15685306-12341501](10.1163/15685306-12341501)  
+* O'Mahony, K., **Corradini, A.**, Gazzola, A. “Lupine becomings- tracking and assembling wolves through multi-sensory fieldwork”. Society and Animals, 26(2), 107-129. DOI [10.1163/15685306-12341501](https://doi.org/10.1163/15685306-12341501)  
 
 
 <br>
@@ -45,4 +45,4 @@ author_profile: true
 | **Year** | **Contribution** |
 |:---------|:-----------------|
 |    2020  | "Effect of human disturbance on Alpine brown bear distribution". In Groff, C. et al (2019). Large Carnivores Report, Autonomous Province of Trento's Forestry and Wildlife Department. pp.22-23 |
-|    2016  | “Wolf (Canis lupus) in Romania: winter feeding ecology and spatial interaction with lynx (Lynx lynx)”. M.Sc. thesis, University of Florence, Italy. DOI [10.5281/zenodo.3689284](10.5281/zenodo.3689284) |
+|    2016  | “Wolf (Canis lupus) in Romania: winter feeding ecology and spatial interaction with lynx (Lynx lynx)”. M.Sc. thesis, University of Florence, Italy. DOI [10.5281/zenodo.3689284](https://doi.org/10.5281/zenodo.3689284) |
