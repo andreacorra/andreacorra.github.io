@@ -1,18 +1,11 @@
 ---
+title:'Publications'
 permalink: /publications/
 excerpt: "Publications"
 toc: true
 author_profile: true
 ---
 
-<br>
-
-**PAGE UNDER DEVELOPMENT** 
-
-<br>
-
-# Publications  
-  
 ## Articles  
 
 ### In preparation
