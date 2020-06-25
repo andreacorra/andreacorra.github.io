@@ -17,7 +17,7 @@ author_profile: true
 
 | **Year** | **Contribution** | **Title** | **Conference** | 
 |:---------|:-----------------|:----------|:---------------|
-|    2019  | Poster| **Corradini, A.** et al. “Effect of human-derived risk in the individual selection of resting sites by brown bear (Ursus arctos) in the Central Alps”. | Gordon Research Seminar & Conference on Movement Ecology of Animals, Italy. |
+|    2019  | Poster| **Corradini, A.** et al. “Effect of human-derived risk in the individual selection of resting sites by brown bear (Ursus arctos) in the Central Alps”. | GRC: Movement Ecology of Animals, Italy. |
 |    2018  | Poster| **Corradini, A.** et al. “All the faces of the Alpine bear: integrating multi-source data in an individual-based spatial relational database for the brown bear (Ursus arctos) in the Alps”.| 26th IBA Conference, Slovenia. |
 |    2017  | Presentation| **Corradini, A.** et al. “Assessing habitat selection of wolf (Canis lupus) and lynx (Lynx lynx) using the Ecological-Niche Factor Analysis: an application in the Eastern Carpathians, Romania”. | X Baltic Theriological Conference, Estonia. |
 <br>
