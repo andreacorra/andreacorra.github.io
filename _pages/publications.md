@@ -33,6 +33,7 @@ author_profile: true
 <br>
 
 # Technical material
+
 | **Year** | **Contribution** |
 |:---------|:-----------------|
 |    2020  | "Effect of human disturbance on Alpine brown bear distribution". In Groff, C. et al (2019). Large Carnivores Report, Autonomous Province of Trento's Forestry and Wildlife Department. pp.22-23 |
