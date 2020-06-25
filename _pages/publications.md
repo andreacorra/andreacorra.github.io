@@ -1,19 +1,22 @@
 ---
 permalink: /publications/
 toc: true
+toc_float: true
 author_profile: true
 ---
 # Publications
 
 ## Articles
-### Published
-1. Abc
-2. Abc
 
 ### In preparation
-1. Abc
-2. Abc
-  
+**2020**  
+* **Corradini, A.**, et al. “Effects of cumulated outdoor activity on wildlife habitat use”. In review in Biological Conservation.  
+
+### Published
+**2017**  
+* O'Mahony, K., **Corradini, A.**, Gazzola, A. “Lupine becomings- tracking and assembling wolves through multi-sensory fieldwork”. Society and Animals, 26(2), 107-129. DOI [10.1163/15685306-12341501](10.1163/15685306-12341501)  
+
+
 <br>
 
 ## Selected conference material
@@ -37,8 +40,9 @@ author_profile: true
   
 <br>
   
-## Technical material
+## Other contributions
 
 | **Year** | **Contribution** |
 |:---------|:-----------------|
 |    2020  | "Effect of human disturbance on Alpine brown bear distribution". In Groff, C. et al (2019). Large Carnivores Report, Autonomous Province of Trento's Forestry and Wildlife Department. pp.22-23 |
+|    2016  | “Wolf (Canis lupus) in Romania: winter feeding ecology and spatial interaction with lynx (Lynx lynx)”. M.Sc. thesis, University of Florence, Italy. DOI [10.5281/zenodo.3689284](10.5281/zenodo.3689284) |
