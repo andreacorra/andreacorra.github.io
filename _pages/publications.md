@@ -1,5 +1,6 @@
 ---
 permalink: /publications/
+excerpt: "Publications"
 toc: true
 author_profile: true
 ---
