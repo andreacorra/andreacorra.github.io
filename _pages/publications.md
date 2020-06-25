@@ -4,18 +4,18 @@ toc: true
 author_profile: true
 ---
 
-# Articles
-## Published
+## Articles
+### Published
 1. Abc
 2. Abc
 
-## In preparation
+### In preparation
 1. Abc
 2. Abc
   
 <br>
 
-# Selected conference material
+## Selected conference material
 
 | **Year** | **Contribution** | **Title** | **Conference** | 
 |:---------|:-----------------|:----------|:---------------|
@@ -25,7 +25,7 @@ author_profile: true
   
 <br>
   
-# Thesis supervised
+## Thesis supervised
   
 | **Year** | **Student** | **Thesis** | **Role** |
 |:---------|:------------|:-----------| :--------| 
@@ -36,7 +36,7 @@ author_profile: true
   
 <br>
   
-# Technical material
+## Technical material
 
 | **Year** | **Contribution** |
 |:---------|:-----------------|
