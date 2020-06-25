@@ -6,13 +6,13 @@ author_profile: true
 toc: true
 ---
 
+An overview of current and past research projects I have been/were involved in.
+
 <br>
 
 **PAGE UNDER DEVELOPMENT** 
 
 <br>
-
-An overview of current and past research projects I have been/were involved in.
 
 # Brown bear
 
