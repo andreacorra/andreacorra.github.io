@@ -56,6 +56,11 @@ Any researcher interested in collaborating could directly contact the authors vi
 # Eurasian lynx
 
 ## EUROLYNX
+![eurolynxer](/assets/images/eurolynxer.jpg)
+Photo credit: EUROLYNX
+
+The [EUROLYNX](https://www.eurolynx.org/) is an open, bottom-up scientific network to promote collaborative science based on knowledge and data sharing to investigate the ecology of the Eurasian lynx (_Lynx lynx_).
+
 
 <br>
 <br>
