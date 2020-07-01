@@ -55,3 +55,11 @@ My PhD project:
 The [mecoco](https://mecoco.github.io/) (**me**thod **co**mparison **co**llaboration) initiative is a collaborative project which aims at developing quantitative analyses in ecology, evolution and related research fields.
 
 I am participating in the [**ame1 project**](https://mecoco.github.io/ame1.html) with my colleagues in the Edmund Mach Foundation. This project focus on methods to quantify home range and activity for roe deer, based on animal biotelemetry data that was collected within the [EURODEER](https://eurodeer.org/) consortium. About 25 research teams joined the ame1 project and it is expected to be finalized in 2021.
+
+
+# Scientific Memberships
+* [IBA](https://www.bearbiology.org/) - International Association for Bear Research and Management (USA)
+* [EUROLYNX](http://www.eurolynx.org/) - Collaborative science for movement ecology of Eurasian lynx (EU)
+* [IRSAE](https://irsae.no/) - International Research School in Applied Ecology (Norway)
+* [International Bio-logging Society](https://www.bio-logging.net/) (UK)
+* [NGAT](https://www.uantwerpen.be/en/research-groups/next-generation-animal-tracking/) - Next Generation Animal Tracking (Belgium)
