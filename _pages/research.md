@@ -54,4 +54,4 @@ My PhD project:
 ## mecoco
 The [mecoco](https://mecoco.github.io/) (**me**thod **co**mparison **co**llaboration) initiative is a collaborative project which aims at developing quantitative analyses in ecology, evolution and related research fields.
 
-I am participating in the [**ame1 project**](https://mecoco.github.io/ame1.html) with my colleagues in the Edmund Mach Foundation. This project focus on methods to quantify home range and activity for roe deer, based on animal biotelemetry data that was collected within the [EURODEER](https://eurodeer.org/) consortium.
+I am participating in the [**ame1 project**](https://mecoco.github.io/ame1.html) with my colleagues in the Edmund Mach Foundation. This project focus on methods to quantify home range and activity for roe deer, based on animal biotelemetry data that was collected within the [EURODEER](https://eurodeer.org/) consortium. About 25 research teams joined the ame1 project and it is expected to be finalized in 2021.
