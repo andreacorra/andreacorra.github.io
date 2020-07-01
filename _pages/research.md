@@ -36,7 +36,15 @@ My PhD project:
 
 # Grey wolf
 
-## WOLFLIFE
+## WOLFLIFE project
+![wolf on display](/assets/images/lup.jpg)
+
+
+**ACHIEVEMENT**  
+- The project had a significant impact on wolf conservation in Romania- [see news](https://ec.europa.eu/easme/en/news/coexistence-wolves-changing-romania) by European Commission.
+- The methodology developed and applied in the WOLFLIFE project (2014-2017) has been accepted by the Ministery of the Environment and has become the first [National action plan](http://www.anpm.ro/-/om-626-2018-planul-national-de-actiune-pentru-specia-canis-lupus) on wolf in Romania!
+- the WOLFLIFE project has been [listed](https://ec.europa.eu/easme/en/news/2020-life-awards-finalists-announced) among the most innovative, inspirational and effective LIFE projects in nature protection in Europe!
+
 
 ## wolfdiet
 ![in the snow](/assets/images/wolf_prey_spectrum.png)
