@@ -57,10 +57,11 @@ Any researcher interested in collaborating could directly contact the authors vi
 
 ## EUROLYNX
 ![eurolynxer](/assets/images/eurolynxer.jpg)
-Photo credit: EUROLYNX
+Partecipants at the first EUROLYNX meeting in the Bavarian Forest National Park, Germany. Photo credit: EUROLYNX
 
-The [EUROLYNX](https://www.eurolynx.org/) is an open, bottom-up scientific network to promote collaborative science based on knowledge and data sharing to investigate the ecology of the Eurasian lynx (_Lynx lynx_).
+The [EUROLYNX](https://www.eurolynx.org/) consortium is an open, bottom-up scientific network to promote collaborative science based on knowledge and data sharing to investigate the ecology of the Eurasian lynx (_Lynx lynx_). 23 research groups are currently collaborating and sharing a wide range of data (GPS data, activity, population, camera trapping) for research purposes.
 
+Within the network, with a work led by PhD student [Teresa Oliveira](https://www.researchgate.net/profile/Teresa_Oliveira16), we are developing a database to study lynx's feeding ecology and effects of kleptoparasitism on lynx predation.
 
 <br>
 <br>
