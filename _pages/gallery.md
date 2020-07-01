@@ -44,6 +44,11 @@ gallery:
     alt: "stoat"
     title: "Stoat. Alaska"
     
+  - url: /assets/images/gallery/black_wolf.JPG
+    image_path: /assets/images/gallery/black_wolf.JPG
+    alt: "black_wolf"
+    title: "Black wolf walking by. Denali NP, Alaska"
+    
   - url: /assets/images/gallery/camp_norway.jpg
     image_path: /assets/images/gallery/camp_norway.jpg
     alt: "camp_norway"
@@ -54,6 +59,11 @@ gallery:
     alt: "wolf_camera"
     title: "Wolves on camera trap. Romania - pic: WOLFLIFE"
     
+  - url: /assets/images/gallery/alps_core.JPG
+    image_path: /assets/images/gallery/alps_core.JPG
+    alt: "alps_core"
+    title: "Brenta Dolomites. Italy"
+        
   - url: /assets/images/gallery/salvmont.jpeg
     image_path: /assets/images/gallery/salvmont.jpeg
     alt: "salvmont"
@@ -68,11 +78,6 @@ gallery:
     image_path: /assets/images/gallery/lynx_kill.jpeg
     alt: "lynx_kill"
     title: "Analyzing a lynx kill. Romania"
-    
-  - url: /assets/images/gallery/black_wolf.JPG
-    image_path: /assets/images/gallery/black_wolf.JPG
-    alt: "black_wolf"
-    title: "Black wolf walking by. Denali NP, Alaska"
     
   - url: /assets/images/gallery/Scat_Washing.JPG
     image_path: /assets/images/gallery/Scat_Washing.JPG
@@ -128,12 +133,7 @@ gallery:
     image_path: /assets/images/gallery/moose.JPG
     alt: "moose"
     title: "Moose with calf feeding in a lake. Alaska"
-    
-  - url: /assets/images/gallery/alps_core.JPG
-    image_path: /assets/images/gallery/alps_core.JPG
-    alt: "alps_core"
-    title: "Brenta Dolomites. Italy"
-    
+
   - url: /assets/images/gallery/running.jpeg
     image_path: /assets/images/gallery/running.jpeg
     alt: "running"
