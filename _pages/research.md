@@ -39,9 +39,7 @@ My PhD project:
 ## WOLFLIFE
 
 ## wolfdiet
-<p align="center">
-<img src="https://github.com/andreacorra/andreacorra.github.io/blob/master/assets/images/wolf_prey_spectrum.png" width="600">
-</p>
+![in the snow](/assets/images/wolf_prey_spectrum.png)
 
 The grey wolf (*Canis lupus*) has one of the widest distributions among terrestrial mammals. Flexible and opportunist, it is well adapted to the different types of habitats, therefore, complex predator-prey interactions occur throughout its entire range. Understanding the extent of these interactions can be achieved through an exhaustive analysis of an adequate number of existing studies on wolves’ feeding ecology. Access to those studies is often hindered by, among other factors, language barriers, and overcoming such factors would ensure the premises for knowledge development concerning the wolf’s foraging behaviour. Consequently, this information could support other research areas such as human-wildlife conflicts, disease transmission, and game management.
 
@@ -49,7 +47,7 @@ We present an [**Open Access spatial database**](https://github.com/andreacorra/
 
 The aim is to encourage researchers to engage in data collection, foster collaboration, and emphasize the knowledge about wolf foraging habits. Ultimately, we want to make it available in other languages (e.g. Chinese, Russian, Hindi) to facilitate knowledge sharing worldwide.
 
-Any researcher interested in collaborating could directly contact the authors via ResearchGate or email worldwolfdiet@gmail.com
+Any researcher interested in collaborating could directly contact the authors via [ResearchGate](https://www.researchgate.net/project/wolfdiet) or [email us](mailto:worldwolfdiet@gmail.com)
 
 
 <br>
