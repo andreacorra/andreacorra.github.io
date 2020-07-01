@@ -47,9 +47,12 @@ My PhD project:
 ## EUROLYNX
 
 # Other research projects
-## red deer migration
+
+## Migration across scales
+Lead by [Steffen Mumme](https://www.researchgate.net/profile/Steffen_Mumme), the project aims at characterizing individual and population movement patterns comparing elk and red deer migration across Europe and the Greater Yellowstone. The project is based on animal biotelemetry data that was collected within the [EURODEER](http://eureddeer.org/) consortium and the Greater Yellowstone Ecosystem. The first manuscript is preparation. 
 
 ## roe deer connectivity in the Alps
+
 
 ## mecoco
 The [mecoco](https://mecoco.github.io/) (**me**thod **co**mparison **co**llaboration) initiative is a collaborative project which aims at developing quantitative analyses in ecology, evolution and related research fields.
