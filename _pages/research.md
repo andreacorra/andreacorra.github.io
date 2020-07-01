@@ -31,7 +31,7 @@ My PhD project:
 1. Bear dispersal. Lead by: Femke Pflüger
 2. Impacts of climate change on brown bears. Lead by: Pablo Lucas 
 
-
+<br>
 <br>
 
 # Grey wolf
@@ -41,11 +41,13 @@ My PhD project:
 ## wolfdiet
 
 <br>
+<br>
 
 # Eurasian lynx
 
 ## EUROLYNX
 
+<br>
 <br>
 
 # Other research projects
@@ -61,6 +63,7 @@ The [**mecoco**](https://mecoco.github.io/) (**me**thod **co**mparison **co**lla
 
 I am participating in the [**ame1 project**](https://mecoco.github.io/ame1.html) with my colleagues in the Edmund Mach Foundation. This project focus on methods to quantify home range and activity for roe deer, based on animal biotelemetry data that was collected within the [EURODEER](https://eurodeer.org/) consortium. About 25 research teams joined the ame1 project and it is expected to be finalized in 2021.
 
+<br>
 <br>
 
 # Scientific Memberships
