@@ -72,7 +72,7 @@ The [EUROLYNX](https://www.eurolynx.org/) consortium is an open, bottom-up scien
 Within the network, with a work led by PhD student [Teresa Oliveira](https://www.researchgate.net/profile/Teresa_Oliveira16), we are developing a database to study lynx's feeding ecology and effects of kleptoparasitism on lynx predation.
 
 ## Romanian lynx
-The lynx data collected during the WOLFLIFE project (genatic samples, tracks, and videos) was taken into account during the [LIFELYNX](https://www.lifelynx.eu/) project planning (in which I am not involved as I moved to Trento after securing the PhD scholarship). Furthermore, the same spatial information have been used to assess [habitat selection](https://www.researchgate.net/publication/320170268_Assessing_habitat_selection_of_wolf_Canis_lupus_and_lynx_Lynx_lynx_using_the_Ecological-Niche_Factor_Analysis_an_application_in_the_Eastern_Carpathians_Romania) and the [spatial interaction](https://zenodo.org/record/3689284) with wolf in the Romanian Carpathians.
+The lynx data collected during the WOLFLIFE project (genatic samples, tracks, and videos) was taken into account during the [LIFELYNX](https://www.lifelynx.eu/) project planning (in which I am unfortunately not involved as I moved to Trento after securing the PhD scholarship). Furthermore, the same spatial information have been used to assess [habitat selection](https://www.researchgate.net/publication/320170268_Assessing_habitat_selection_of_wolf_Canis_lupus_and_lynx_Lynx_lynx_using_the_Ecological-Niche_Factor_Analysis_an_application_in_the_Eastern_Carpathians_Romania) and the [spatial interaction](https://zenodo.org/record/3689284) with wolf in the Romanian Carpathians.
 
 
 <br>
