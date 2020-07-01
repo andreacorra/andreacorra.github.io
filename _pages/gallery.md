@@ -98,7 +98,12 @@ gallery:
     image_path: /assets/images/gallery/bear_lynx.jpeg
     alt: "bear_lynx"
     title: "Bear and lynx track on the snow. Romania, Italy"
-    
+
+  - url: /assets/images/gallery/running.jpeg
+    image_path: /assets/images/gallery/Denali_reflection.JPG
+    alt: "denali reflection"
+    title: "The reflection of Denali mountain on Wonder Lake. Alaska"
+        
   - url: /assets/images/gallery/lynx_trapping.JPG
     image_path: /assets/images/gallery/lynx_trapping.JPG
     alt: "lynx_trapping"
@@ -134,11 +139,6 @@ gallery:
     alt: "moose"
     title: "Moose with calf feeding in a lake. Alaska"
 
-  - url: /assets/images/gallery/running.jpeg
-    image_path: /assets/images/gallery/running.jpeg
-    alt: "running"
-    title: "Skyrunning in the beautiful Corno alle Scale Regional Park. Italy"
-    
 ---
 
 <style>
