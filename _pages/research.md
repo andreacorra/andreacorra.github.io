@@ -28,8 +28,12 @@ My PhD project:
 3. Collaboration with [...] research groups
 4. Collaboration with the Interagency Grizzly Bear Study Team - USGS
 
+
 ## Depredation risk analysis
-- Collaboration. Lead by Adrienne Gastineau
+Lead by [Adrienne Gastineau, PhD](https://www.researchgate.net/profile/Steffen_Mumme), the work aims at identifying factors associated with depredations on livestock by brown bears in Western Europe, specifically on Pyrenean and Alpine bears.
+
+As part of her PhD, Adrienne has studied brown bear damage events on livestock in the Pyrenees, France (see the article published on [Biological Conservation](https://www.sciencedirect.com/science/article/pii/S0006320719309449)). The work aimed at going beyond the primary vulnerability analysis of pastoral areas and to undertake a spatially explicit study at different spatial (landscape, individual home range) and temporal scales (intra- and inter-annual variations). The current research aims to study the pattern of spatiotemporal depredation for both Pyrenean and Alpine bears.
+
 
 ## BearConnect Consortium
 1. Bear dispersal. Lead by: Femke Pflüger
