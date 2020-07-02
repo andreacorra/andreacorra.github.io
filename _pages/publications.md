@@ -16,6 +16,8 @@ author_profile: true
 **2017**  
 * O'Mahony, K., **Corradini, A.**, Gazzola, A. “Lupine becomings- tracking and assembling wolves through multi-sensory fieldwork”. Society and Animals, 26(2), 107-129. DOI [10.1163/15685306-12341501](https://doi.org/10.1163/15685306-12341501)  
 
+### Reviewer
+* PlosOne
 
 <br>
 
