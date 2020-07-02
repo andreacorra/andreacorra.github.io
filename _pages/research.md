@@ -30,7 +30,7 @@ My PhD project:
 
 
 ## Depredation risk analysis
-Lead by [Adrienne Gastineau, PhD](https://www.researchgate.net/profile/Steffen_Mumme), the work aims at identifying factors associated with depredations on livestock by brown bears in Western Europe, specifically on Pyrenean and Alpine bears.
+Led by [Adrienne Gastineau, PhD](https://www.researchgate.net/profile/Steffen_Mumme), the work aims at identifying factors associated with depredations on livestock by brown bears in Western Europe, specifically on Pyrenean and Alpine bears.
 
 As part of her PhD, Adrienne has studied brown bear damage events on livestock in the Pyrenees, France (see the article published on [Biological Conservation](https://www.sciencedirect.com/science/article/pii/S0006320719309449)). The work aimed at going beyond the primary vulnerability analysis of pastoral areas and to undertake a spatially explicit study at different spatial (landscape, individual home range) and temporal scales (intra- and inter-annual variations). The current research aims to study the pattern of spatiotemporal depredation for both Pyrenean and Alpine bears.
 
@@ -40,9 +40,9 @@ As part of her PhD, Adrienne has studied brown bear damage events on livestock i
 The [BearConnect project](https://bearconnect.org/) aims at studying the functional connectivity and ecological sustainability of European ecological networks, brown bear as a case study.
 
 Together with my PhD supervisors, we are collaborating with data and expertise in two studies within the BearConnect project:
-1. "Direct and indirect impacts of climate change and land use change over biodiversity: a case of study with the brown bear in Europe". Lead by [Pablo Lucas](https://www.researchgate.net/profile/Pablo_Lucas). Check the abstract [here](https://lifewithbears.eu/book-of-abstracts/).
+1. "Direct and indirect impacts of climate change and land use change over biodiversity: a case of study with the brown bear in Europe". Led by [Pablo Lucas](https://www.researchgate.net/profile/Pablo_Lucas). Check the abstract [here](https://lifewithbears.eu/book-of-abstracts/).
 
-2. Dispersal within a reintroduced brown bear population in Trentino, Italy. Lead by [Femke Pflüger](https://www.researchgate.net/profile/Femke_Pflueger)
+2. Dispersal within a reintroduced brown bear population in Trentino, Italy. Led by [Femke Pflüger](https://www.researchgate.net/profile/Femke_Pflueger)
 
 <br>
 <br>
@@ -109,10 +109,10 @@ The lynx data collected during the WOLFLIFE project (genatic samples, tracks, an
 # Other research projects
 
 ## Migration across scales
-Lead by PhD student [Steffen Mumme](https://www.researchgate.net/profile/Steffen_Mumme), the project aims at characterizing individual and population movement patterns comparing elk and red deer migration across Europe and the Greater Yellowstone. The project is based on animal biotelemetry data that was collected within the [EUREDDEER](http://eureddeer.org/) consortium and the Greater Yellowstone Ecosystem. The first manuscript is in preparation. 
+Led by PhD student [Steffen Mumme](https://www.researchgate.net/profile/Steffen_Mumme), the project aims at characterizing individual and population movement patterns comparing elk and red deer migration across Europe and the Greater Yellowstone. The project is based on animal biotelemetry data that was collected within the [EUREDDEER](http://eureddeer.org/) consortium and the Greater Yellowstone Ecosystem. The first manuscript is in preparation. 
 
 ## Roe deer connectivity in the Alps
-Lead by PhD student [Gieole Passoni](https://www.researchgate.net/profile/Gioele_Passoni), the work (within the larger [project](https://www.researchgate.net/project/PhD-Multi-species-animal-movement-and-connectivity-in-the-Alps) on animal connectivity) aims to investigate movement and ecological connectivity for roe deer in the Alps. The project uses the movement data within the [EURODEER](https://eurodeer.org/) consortium and the manuscript is currently in preparation.  
+Led by PhD student [Gieole Passoni](https://www.researchgate.net/profile/Gioele_Passoni), the work (within the larger [project](https://www.researchgate.net/project/PhD-Multi-species-animal-movement-and-connectivity-in-the-Alps) on animal connectivity) aims to investigate movement and ecological connectivity for roe deer in the Alps. The project uses the movement data within the [EURODEER](https://eurodeer.org/) consortium and the manuscript is currently in preparation.  
 
 ## mecoco
 The [**mecoco**](https://mecoco.github.io/) (**me**thod **co**mparison **co**llaboration) initiative is a collaborative project which aims at developing quantitative analyses in ecology, evolution and related research fields.
