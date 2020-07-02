@@ -6,6 +6,8 @@ toc: true
 author_profile: true
 ---
 
+![in the snow](/assets/images/in_the_snow.jpeg)
+
 ## Articles  
 
 ### In preparation
