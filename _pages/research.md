@@ -43,8 +43,20 @@ My PhD project:
 ## WOLFLIFE project
 ![wolf on display](/assets/images/lup.jpg)
 
-The [WOLFLIFE](https://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=4970) (**LIFE13 NAT/RO/000205**) was co-funded by the European Commission through the LIFE+ Nature program and was carried out between July 2014 and April 2018. The project's aim was to implement best practices for in-situ conservation of the species Canis lupus in the Eastern Carpathians.
+The [WOLFLIFE](https://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=4970) project (**LIFE13 NAT/RO/000205**) was co-funded by the European Commission through the LIFE+ Nature program and was carried out between July 2014 and April 2018. The project's aim was to implement best practices for in-situ conservation of the species _Canis lupus_ in the Eastern Carpathians.  
 
+The project was implemented by Romanian Environmental Protection Agencies (Vrancea, Covasna, and Harghita) in partnership with [ACDB](https://www.acdb.ro/) (The Association for the Conservation of Biological Diversity). The project area covered 6 counties (Vrancea, Covasna, Harghita, Bacău, Neamţ, Mureş) and 18 Natura 2000 sites in Romania 's Eastern Carpathians. 
+
+Thanks to an Erasmus+ Traineeship Mobility grant, I joined ACDB in 2014 to do my Master Thesis. Then I was hired as a biologist/field technician in 2015, after a year as a field assistant, and continued to live and work in Romania until the end of the monitoring (2017).
+
+Over the course of 3 years we carried out a multitude of activities within the framework of the project:
+- Survey on wolf distribution and abundance in the Eastern Romanian Carpathians, using a non-invasive integrated sampling design (snow tracking, genetic analysis; developed with [Senckenberg](https://www.senckenberg.de/en/institutes/senckenberg-research-institute-natural-history-museum-frankfurt/department-river-ecology-and-conservation/subdepartment-conservation-genetics/conservation-genetics-research/) lab (Frankfurt, Germany), camera trapping, wolf howling);
+- Project database management (data entry, database maintenance, scheduled backup and monitoring data usage);
+- Scientific material production and participation in national and international conferences;
+- Stakeholder involvement (hunters, foresters, shepherds and local population);
+- Interviews to shepherds to assess livestock/large carnivores conflict.
+
+The methodology applied, as well as the scientific material produced, can be found in [ResearchGate](https://www.researchgate.net/project/WOLFLIFE-project-LIFE13NAT-RO-000205-Implementing-best-practices-for-the-in-situ-conservation-of-the-species-Canis-lupus-in-the-Eastern-Carpathians-wwwwolflifeeu).
 
 **ACHIEVEMENT**  
 - The project had a significant impact on wolf conservation in Romania- [see news](https://ec.europa.eu/easme/en/news/coexistence-wolves-changing-romania) by European Commission.
