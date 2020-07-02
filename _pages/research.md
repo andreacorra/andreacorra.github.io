@@ -19,6 +19,9 @@ An overview of current and past research projects.
 # Brown bear
 
 ## AlpBearConnect
+
+![bear on feeding site](/assets/images/bear_feed.jpeg)
+
 My PhD project:
 
 1. Effect of human outdoor activity
