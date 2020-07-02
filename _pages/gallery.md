@@ -147,7 +147,7 @@ gallery:
   - url: /assets/images/gallery/Andrea3.jpg
     image_path: /assets/images/gallery/Andrea3.jpg
     alt: "presenting"
-    title: "Presenting my PhD in Fondazione Edmund Mach"
+    title: "Presenting my PhD in Fondazione Edmund Mach. Italy"
     
   - url: /assets/images/gallery/moose.JPG
     image_path: /assets/images/gallery/moose.JPG
