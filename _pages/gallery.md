@@ -63,6 +63,29 @@ gallery:
     image_path: /assets/images/gallery/alps_core.JPG
     alt: "alps_core"
     title: "Brenta Dolomites. Italy"
+    
+  - url: /assets/images/gallery/lynx_kill.jpeg
+    image_path: /assets/images/gallery/lynx_kill.jpeg
+    alt: "lynx_kill"
+    title: "Analyzing a lynx kill. Romania"    
+     
+  - url: /assets/images/gallery/lynx_trapping.JPG
+    image_path: /assets/images/gallery/lynx_trapping.JPG
+    alt: "lynx_trapping"
+    title: "Setting lynx trapping for the LIFELYNX project. Romania"   
+
+  - url: /assets/images/gallery/tracking.jpeg
+    image_path: /assets/images/gallery/tracking.jpeg
+    alt: "tracking_wolf"
+    title: "Snow tracking wolves over a long day. Romania"   
+
+  - url: /assets/images/gallery/deers.jpeg
+    image_path: /assets/images/gallery/deers.jpeg
+    alt: "roe_deer"
+    title: "Roe deer pictured by Andrea Gazzola. Romania"  
+
+
+    
         
   - url: /assets/images/gallery/salvmont.jpeg
     image_path: /assets/images/gallery/salvmont.jpeg
@@ -73,11 +96,6 @@ gallery:
     image_path: /assets/images/gallery/deer.jpeg
     alt: "deer"
     title: "Red deer fawn. Stelvio NP, Italy"
-    
-  - url: /assets/images/gallery/lynx_kill.jpeg
-    image_path: /assets/images/gallery/lynx_kill.jpeg
-    alt: "lynx_kill"
-    title: "Analyzing a lynx kill. Romania"
     
   - url: /assets/images/gallery/Scat_Washing.JPG
     image_path: /assets/images/gallery/Scat_Washing.JPG
@@ -103,11 +121,6 @@ gallery:
     image_path: /assets/images/gallery/Denali_reflection.JPG
     alt: "denali_reflection"
     title: "The reflection of Denali on Wonder Lake. Alaska"
-        
-  - url: /assets/images/gallery/lynx_trapping.JPG
-    image_path: /assets/images/gallery/lynx_trapping.JPG
-    alt: "lynx_trapping"
-    title: "Setting lynx trapping for the LIFELYNX project. Romania"
     
   - url: /assets/images/gallery/watching_chamois.jpg
     image_path: /assets/images/gallery/watching_chamois.jpg
