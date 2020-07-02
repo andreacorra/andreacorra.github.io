@@ -63,7 +63,22 @@ gallery:
     image_path: /assets/images/gallery/alps_core.JPG
     alt: "alps_core"
     title: "Brenta Dolomites. Italy"
+
+  - url: /assets/images/gallery/deers.jpeg
+    image_path: /assets/images/gallery/deers.jpeg
+    alt: "roe_deer"
+    title: "Roe deer pictured by Andrea Gazzola. Romania"  
+        
+  - url: /assets/images/gallery/salvmont.jpeg
+    image_path: /assets/images/gallery/salvmont.jpeg
+    alt: "salvmont"
+    title: "Fieldwork with the moutain rescue team. Romania"
     
+  - url: /assets/images/gallery/deer.jpeg
+    image_path: /assets/images/gallery/deer.jpeg
+    alt: "deer"
+    title: "Red deer fawn. Stelvio NP, Italy"
+        
   - url: /assets/images/gallery/lynx_kill.jpeg
     image_path: /assets/images/gallery/lynx_kill.jpeg
     alt: "lynx_kill"
@@ -78,24 +93,6 @@ gallery:
     image_path: /assets/images/gallery/tracking.jpeg
     alt: "tracking_wolf"
     title: "Snow tracking wolves over a long day. Romania"   
-
-  - url: /assets/images/gallery/deers.jpeg
-    image_path: /assets/images/gallery/deers.jpeg
-    alt: "roe_deer"
-    title: "Roe deer pictured by Andrea Gazzola. Romania"  
-
-
-    
-        
-  - url: /assets/images/gallery/salvmont.jpeg
-    image_path: /assets/images/gallery/salvmont.jpeg
-    alt: "salvmont"
-    title: "Fieldwork with the moutain rescue team. Romania"
-    
-  - url: /assets/images/gallery/deer.jpeg
-    image_path: /assets/images/gallery/deer.jpeg
-    alt: "deer"
-    title: "Red deer fawn. Stelvio NP, Italy"
     
   - url: /assets/images/gallery/Scat_Washing.JPG
     image_path: /assets/images/gallery/Scat_Washing.JPG
@@ -147,11 +144,16 @@ gallery:
     alt: "bear_den"
     title: "Bear den. Romania"
     
+  - url: /assets/images/gallery/Andrea3.jpg
+    image_path: /assets/images/gallery/Andrea3.jpg
+    alt: "presenting"
+    title: "Presenting my PhD in Fondazione Edmund Mach"
+    
   - url: /assets/images/gallery/moose.JPG
     image_path: /assets/images/gallery/moose.JPG
     alt: "moose"
     title: "Moose with calf feeding in a lake. Alaska"
-
+    
 ---
 
 <style>
