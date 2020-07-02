@@ -8,8 +8,6 @@ toc: true
 
 An overview of current and past research projects.
 
-![in the snow](/assets/images/in_the_snow.jpeg)
-
 <br>
 
 **PAGE UNDER DEVELOPMENT** 
