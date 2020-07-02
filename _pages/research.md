@@ -56,7 +56,7 @@ Over the course of 3 years we carried out a multitude of activities within the f
 - Stakeholder involvement (hunters, foresters, shepherds and local population);
 - Interviews to shepherds to assess livestock/large carnivores conflict.
 
-The methodology applied, as well as the scientific material produced, can be found in [ResearchGate](https://www.researchgate.net/project/WOLFLIFE-project-LIFE13NAT-RO-000205-Implementing-best-practices-for-the-in-situ-conservation-of-the-species-Canis-lupus-in-the-Eastern-Carpathians-wwwwolflifeeu).
+The methodology applied, as well as the scientific materials produced, can be found in [ResearchGate](https://www.researchgate.net/project/WOLFLIFE-project-LIFE13NAT-RO-000205-Implementing-best-practices-for-the-in-situ-conservation-of-the-species-Canis-lupus-in-the-Eastern-Carpathians-wwwwolflifeeu).
 
 **ACHIEVEMENT**  
 - The project had a significant impact on wolf conservation in Romania- [see news](https://ec.europa.eu/easme/en/news/coexistence-wolves-changing-romania) by European Commission.
