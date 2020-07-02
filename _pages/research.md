@@ -18,7 +18,8 @@ An overview of current and past research projects.
 
 ## AlpBearConnect
 
-![bear on feeding site](/assets/images/bear_feed.jpeg)
+![bear on feeding site](/assets/images/bear_feed.jpeg)  
+Bear caught on camera on a feeding site for deer in Trento province, Italy. Photo credit: Fondazione Edmund Mach
 
 My PhD project:
 
@@ -42,7 +43,6 @@ My PhD project:
 ## WOLFLIFE project
 ![wolf on display](/assets/images/lup.jpg)
 
-
 **ACHIEVEMENT**  
 - The project had a significant impact on wolf conservation in Romania- [see news](https://ec.europa.eu/easme/en/news/coexistence-wolves-changing-romania) by European Commission.
 - The methodology developed and applied in the WOLFLIFE project (2014-2017) has been accepted by the Ministery of the Environment and has become the first [National action plan](http://www.anpm.ro/-/om-626-2018-planul-national-de-actiune-pentru-specia-canis-lupus) on wolf in Romania!
@@ -50,7 +50,8 @@ My PhD project:
 
 
 ## wolfdiet
-![in the snow](/assets/images/wolf_prey_spectrum.png)
+![prey spectrum](/assets/images/wolf_prey_spectrum.png)  
+Wolf diet spectrum. Artist: Andrea Gazzola
 
 The grey wolf (*Canis lupus*) has one of the widest distributions among terrestrial mammals. Flexible and opportunist, it is well adapted to the different types of habitats, therefore, complex predator-prey interactions occur throughout its entire range. Understanding the extent of these interactions can be achieved through an exhaustive analysis of an adequate number of existing studies on wolves’ feeding ecology. Access to those studies is often hindered by, among other factors, language barriers, and overcoming such factors would ensure the premises for knowledge development concerning the wolf’s foraging behaviour. Consequently, this information could support other research areas such as human-wildlife conflicts, disease transmission, and game management.
 
@@ -67,7 +68,7 @@ Any researcher interested in collaborating could directly contact the authors vi
 # Eurasian lynx
 
 ## EUROLYNX
-![eurolynxer](/assets/images/eurolynxer.jpg)
+![eurolynxer](/assets/images/eurolynxer.jpg)  
 Partecipants at the first EUROLYNX meeting in the Bavarian Forest National Park, Germany. Photo credit: EUROLYNX
 
 The [EUROLYNX](https://www.eurolynx.org/) consortium is an open, bottom-up scientific network to promote collaborative science based on knowledge and data sharing to investigate the ecology of the Eurasian lynx (_Lynx lynx_). 23 research groups are currently collaborating and sharing a wide range of data (GPS data, activity, population, camera trapping) for research purposes.
