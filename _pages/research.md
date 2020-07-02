@@ -43,6 +43,9 @@ My PhD project:
 ## WOLFLIFE project
 ![wolf on display](/assets/images/lup.jpg)
 
+The WOLFLIFE (**LIFE13 NAT/RO/000205**) was co-funded by the European Commission through the LIFE+ Nature program and was carried out between July 2014 and April 2018. The project's aim was to implement best practices for in-situ conservation of the species Canis lupus in the Eastern Carpathians.
+
+
 **ACHIEVEMENT**  
 - The project had a significant impact on wolf conservation in Romania- [see news](https://ec.europa.eu/easme/en/news/coexistence-wolves-changing-romania) by European Commission.
 - The methodology developed and applied in the WOLFLIFE project (2014-2017) has been accepted by the Ministery of the Environment and has become the first [National action plan](http://www.anpm.ro/-/om-626-2018-planul-national-de-actiune-pentru-specia-canis-lupus) on wolf in Romania!
