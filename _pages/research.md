@@ -36,8 +36,12 @@ As part of her PhD, Adrienne has studied brown bear damage events on livestock i
 
 
 ## BearConnect Consortium
-1. Bear dispersal. Lead by: Femke Pflüger
-2. Impacts of climate change on brown bears. Lead by: Pablo Lucas 
+
+The [BearConnect project](https://bearconnect.org/) aims at studying the functional connectivity and ecological sustainability of European ecological networks, brown bear as a case study.
+
+Together with my PhD supervisors, we are collaborating with data and expertise in two studies:
+1. Impacts of climate change on brown bears. Lead by: [Pablo Lucas](https://www.researchgate.net/profile/Pablo_Lucas) 
+2. Bear dispersal. Lead by: [Femke Pflüger](https://www.researchgate.net/profile/Femke_Pflueger)
 
 <br>
 <br>
