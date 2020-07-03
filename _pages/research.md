@@ -16,10 +16,10 @@ An overview of current and past research projects.
 
 # Brown bear
 
-## AlpBearConnect
-
 ![bear on feeding site](/assets/images/bear_feed.png)  
 Bear caught on camera on a feeding site for deer in Trento province, Italy. Photo credit: Fondazione Edmund Mach
+
+## AlpBearConnect
 
 My PhD project:
 
@@ -49,8 +49,9 @@ Together with my PhD supervisors, we are collaborating with data and expertise i
 
 # Grey wolf
 
-## WOLFLIFE project
 ![wolf on display](/assets/images/lup.jpg)
+
+## WOLFLIFE project
 
 The [WOLFLIFE](https://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=4970) project (**LIFE13 NAT/RO/000205**) was co-funded by the European Commission through the LIFE+ Nature program and was carried out between July 2014 and April 2018. The project's aim was to implement best practices for in-situ conservation of the species _Canis lupus_ in the Eastern Carpathians.  
 
