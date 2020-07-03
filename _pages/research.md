@@ -75,8 +75,10 @@ The methodology applied, as well as the scientific materials produced, can be fo
 
 
 ## wolfdiet
+<!---
 ![prey spectrum](/assets/images/wolf_prey_spectrum.png)  
 Wolf diet spectrum. Artist: Andrea Gazzola
+-->
 
 The grey wolf (*Canis lupus*) has one of the widest distributions among terrestrial mammals. Flexible and opportunist, it is well adapted to the different types of habitats, therefore, complex predator-prey interactions occur throughout its entire range. Understanding the extent of these interactions can be achieved through an exhaustive analysis of an adequate number of existing studies on wolves’ feeding ecology. Access to those studies is often hindered by, among other factors, language barriers, and overcoming such factors would ensure the premises for knowledge development concerning the wolf’s foraging behaviour. Consequently, this information could support other research areas such as human-wildlife conflicts, disease transmission, and game management.
 
