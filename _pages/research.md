@@ -18,7 +18,7 @@ An overview of current and past research projects.
 
 ## AlpBearConnect
 
-![bear on feeding site](/assets/images/bear_feed.jpeg)  
+![bear on feeding site](/assets/images/bear_feed.png)  
 Bear caught on camera on a feeding site for deer in Trento province, Italy. Photo credit: Fondazione Edmund Mach
 
 My PhD project:
